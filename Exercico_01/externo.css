@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+#divA{
+    background-color: #997023;
+    width: 600px;
+    height: 600px;
+}
+#divB{
+    background-color: #aed376;
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: #313131;
+    background-color: #999916;
+    font-size: 18px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+#divD{
+    width: 45%;
+    height: 45vh;
+    background-color: rgb(120, 214, 214);
+}
+#divE{
+    width: 20vw;
+    height: 10%;
+    background-color: rgb(211, 99, 196);
+}
